@@ -37,7 +37,7 @@ export const getStaticProps = async (context) => {
     props: {
       data: data,
       content: mdxSource,
-      api_key: api_key || "pt_953e0f40af1aa2b7b97af0841691ab",
+      api_key: api_key,
     },
   };
 };
