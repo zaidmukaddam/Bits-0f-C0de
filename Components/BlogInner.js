@@ -6,7 +6,7 @@ function BlogInner({ data, content, api_key }) {
   return (
     <div className="max-w-4xl mx-auto rounded-lg shadow-lg bg-white dark:bg-gray-900">
       <img
-        className="object-cover w-full h-72"
+        className="object-cover w-full h-100"
         src={data.HeaderImage}
         alt="Article Image"
       />
