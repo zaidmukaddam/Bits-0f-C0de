@@ -11,7 +11,7 @@ function Header() {
         </h1>
 
         <p className="px-0 mb-8 text-lg text-gray-600 md:text-xl lg:px-24 dark:text-gray-400">
-          I am self-taught developer trying to learn new technologies and
+          I am a self-taught developer trying to learn new technologies and
           sharing my experiences and knowledge
         </p>
       </div>
